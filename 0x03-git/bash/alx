@@ -1,6 +1,10 @@
 #!/bin/bash
 <<<<<<< HEAD
+<<<<<<< HEAD
 echo "ALX school"
+=======
+echo  "The school is open!"
+>>>>>>> main
 =======
 echo  "The school is open!"
 >>>>>>> main
